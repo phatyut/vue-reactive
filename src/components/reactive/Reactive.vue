@@ -1,5 +1,12 @@
 <template>
     <div>
-        this is reactive
+        <div>
+            <Firstsetup></Firstsetup>
+        </div>
+        
     </div>
 </template>
+<script setup>
+import Firstsetup from './firstsetup/Firstsetup.vue';
+
+</script>

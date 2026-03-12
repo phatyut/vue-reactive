@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "first_name": "Alice",
+    "last_name": "Johnson",
+    "avatar": "https://robohash.org/alice",
+    "employment": {
+      "title": "Software Engineer"
+    }
+  },
+  {
+    "id": 2,
+    "first_name": "Bob",
+    "last_name": "Smith",
+    "avatar": "https://robohash.org/bob",
+    "employment": {
+      "title": "Project Manager"
+    }
+  }
+]
