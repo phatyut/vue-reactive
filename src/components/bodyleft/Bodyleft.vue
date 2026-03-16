@@ -9,6 +9,12 @@
                 <router-link to="/lifecycle">Lifecycle</router-link>
                 <router-link to="/provideandinject">ProvideAndInject</router-link>
                 <router-link to="/forminput">Forminput</router-link>
+                <router-link to="/animationplaincss">Animationplaincss</router-link>
+                <router-link to="/animateVfor">animateVfor</router-link>
+                <router-link to="/attrs">Attrs</router-link>
+                <router-link to="/propslearning">Propslearning</router-link>
+                <router-link to="/root">Root</router-link>
+                <router-link to="/watch">Watch</router-link>
             </div>
         </div>
 
@@ -31,6 +37,7 @@
            <div class=" border-t-2 border-gray-700 border-b grid grid-cols-2 justify-evenly w-full *:text-gray-600 *:hover:text-gray-400 *:hover:underline  gap-3.5  ">
                <router-link to="/firstsetup">FirstsetUp</router-link>
                <router-link to="/reactivity">Reactivity</router-link>
+               <router-link to="/props">Props</router-link>
            </div>
        </div>
 
