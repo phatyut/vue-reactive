@@ -16,6 +16,9 @@ import Attrs from './components/learn/attrs/Attrs.vue'
 import Propslearning from './components/learn/Props/Props.vue'
 import Root from './components/learn/root/Root.vue'
 import Watch from './components/learn/watch/Watch.vue'
+import inputModel from './components/learn/inputModel/inputModel.vue'
+import Von from './components/learn/Von/Von.vue'
+import Computed from './components/learn/computed/Computed.vue'
 //_____________Builds__________________________
 import Builds from './components/bodyright/build/Builds.vue'
 //_____________reactive __________________________
@@ -41,6 +44,9 @@ const routers = createRouter({
     { path: '/propslearning', component:Propslearning},
     { path: '/root', component:Root},
     { path: '/watch', component:Watch},
+    { path: '/inputmodel', component:inputModel},
+    { path: '/von', component:Von},
+    { path: '/computed', component:Computed},
     // ____________Build___________________
     { path: '/builds', component:Builds},
     // ____________reactive_________________

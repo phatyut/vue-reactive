@@ -15,6 +15,9 @@
                 <router-link to="/propslearning">Propslearning</router-link>
                 <router-link to="/root">Root</router-link>
                 <router-link to="/watch">Watch</router-link>
+                <router-link to="/inputmodel">inputModel</router-link>
+                <router-link to="/von">Von</router-link>
+                <router-link to="/computed">Computed</router-link>
             </div>
         </div>
 
